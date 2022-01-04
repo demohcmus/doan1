@@ -178,13 +178,7 @@ img {
 }
 
 /* about section */
-#about-header {
-  background: url('https://i.imgur.com/616ellJ.jpg') no-repeat;
-  background-size: cover;
-  background-position: center;
-  min-height: 500px;
-  padding-top: 160px;
-}
+
 #about {
   padding-top: 60px;
   
